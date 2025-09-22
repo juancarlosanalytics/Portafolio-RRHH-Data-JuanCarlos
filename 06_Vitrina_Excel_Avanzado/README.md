@@ -1,4 +1,4 @@
-# Excel Avanzado Aplicado a Recursos Humanos
+# Excel Avanzado Aplicado a Recursos Humanos (EN CONSTRUCCION)
 
 EN CONSTRUCCION
 
