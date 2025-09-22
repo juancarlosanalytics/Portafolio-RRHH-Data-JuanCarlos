@@ -17,14 +17,9 @@ Esta carpeta muestra un proyecto elaborado para un cliente en el que desarrollé
 - Streamlit (interfaz web)
 - PyPDF2 / pdfplumber (procesamiento de PDFs)
 
-🚀 Cómo ejecutarlo (ejemplo)
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-pip install -r requirements.txt
-streamlit run app.py
-
 💡 Próximos pasos
 
 - Soporte para otros formatos (Word, Excel).
 - Integración con canales de comunicación (Slack, WhatsApp).
 - Manejo de roles y autenticación.
+
