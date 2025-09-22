@@ -2,7 +2,7 @@
 
 Esta carpeta contiene una visuailzación real modelo desarrollada con Power BI para proyectos organizacionales en distintos sectores (alimentación, medios y servicios financieros).
 
-Los dashboards están diseñados con enfoque en storytelling y toma de decisiones.
+El dashboard está diseñado con enfoque en storytelling y toma de decisiones.
 
 🔹 Control de rotación, ausentismo y desempeño  
 🔹 Análisis de headcount y clima laboral  
