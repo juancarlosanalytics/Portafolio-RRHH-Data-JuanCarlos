@@ -9,3 +9,5 @@ Los dashboards están diseñados con enfoque en storytelling y toma de decisione
 🔹 Seguimiento de capacitaciones y productividad por sede
 
 > Los datos han sido anonimizados. Todos los proyectos fueron validados por referentes del sector.
+>
+> ![Dashboard](powerbi-dashboard.jpeg)
