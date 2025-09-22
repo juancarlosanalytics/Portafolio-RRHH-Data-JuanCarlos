@@ -19,8 +19,8 @@ Esta carpeta muestra un proyecto elaborado para un cliente en el que desarrollé
 
 Referencia:
 
-Código Prompt(images/bot_1.jpg)
-Interfase de Usuario (images/bot_4.jpg)
+![Codigo Prompt](images/bot_2.jpg)
+![Interfase de Usuario](images/bot_4.jpg)
 
 
 💡 Próximos pasos
