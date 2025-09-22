@@ -1,9 +1,30 @@
 # Inteligencia Artificial en Recursos Humanos
 
-Esta carpeta muestra exploraciones iniciales de IA aplicada a RRHH, con proyectos como:
+Esta carpeta muestra un proyecto elaborado para un cliente en el que desarrollé un chatbot que responde únicamente en base a políticas y demás documentos de la Empresa usando embeddings y recuperación de texto. 
 
-🔹 Mini chatbots con lenguaje natural para preguntas frecuentes de empleados  
-🔹 Clasificación de CVs con IA ligera  
-🔹 Aplicación de notebooks con IA sobre datos cargados manualmente
+✨ Características
 
-> En exploración de herramientas como OpenAI, LLMs y Python orientado a IA aplicada.
+1. 📄 Lectura y procesamiento de documentos en formato PDF.
+2. 🔥 Integración con Llamas para el modelo de lenguaje.
+3. 🌐 Interfaz web simple e intuitiva para interactuar con el chatbot.
+4. 🤖 Respuestas contextuales basadas en el contenido de los documentos.
+
+🛠️ Tecnologías utilizadas
+
+- Python
+- LangChain
+- Llamas (modelo de lenguaje)
+- Streamlit (interfaz web)
+- PyPDF2 / pdfplumber (procesamiento de PDFs)
+
+🚀 Cómo ejecutarlo (ejemplo)
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+pip install -r requirements.txt
+streamlit run app.py
+
+💡 Próximos pasos
+
+- Soporte para otros formatos (Word, Excel).
+- Integración con canales de comunicación (Slack, WhatsApp).
+- Manejo de roles y autenticación.
