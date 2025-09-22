@@ -1,5 +1,7 @@
 # Modelos Predictivos Aplicados a Recursos Humanos
 
+EN CONSTRUCCION
+
 Aquí encontrarás modelos desarrollados en Python orientados a la predicción de comportamientos organizacionales.
 
 🔹 Modelos de regresión para predicción de rotación  
