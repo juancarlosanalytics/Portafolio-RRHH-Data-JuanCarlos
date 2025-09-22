@@ -1,5 +1,7 @@
 # Excel Avanzado Aplicado a Recursos Humanos
 
+EN CONSTRUCCION
+
 Esta carpeta muestra proyectos desarrollados con Excel para análisis organizacional, automatización y toma de decisiones.
 
 🔹 Dashboards de rotación y ausentismo  
