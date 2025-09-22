@@ -17,6 +17,12 @@ Esta carpeta muestra un proyecto elaborado para un cliente en el que desarrollé
 - Streamlit (interfaz web)
 - PyPDF2 / pdfplumber (procesamiento de PDFs)
 
+Referencia:
+
+![Código Prompt](images/bot_1.jpg)
+![Interfase de Usuario](images/bot_4.jpg)
+
+
 💡 Próximos pasos
 
 - Soporte para otros formatos (Word, Excel).
