@@ -1,4 +1,4 @@
-# Automatización con Python en RRHH
+# Automatización con Python en RRHH (EN CONSTRUCCIÓN)
 
 Esta carpeta incluye scripts reales de automatización desarrollados en Python, aplicados a procesos organizacionales como:
 
